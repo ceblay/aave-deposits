@@ -1,0 +1,16 @@
+{
+  "name": "aave-deposits",
+  "version": "1.0.0",
+  "description": "Tests deposits into Aave protocol",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "user@example.com",
+  "license": "ISC",
+  "dependencies": {
+    "@aave/core-v3": "^1.16.2",
+    "axios": "^1.1.3",
+    "ethers": "^5.7.2"
+  }
+}
